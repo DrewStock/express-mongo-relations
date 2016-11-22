@@ -1,4 +1,5 @@
 # express-mongo-relations: coded by [Drew Stock] (https://github.com/DrewStock)
+[![Build Status](https://travis-ci.org/DrewStock/express-mongo-relations.svg?branch=master)](https://travis-ci.org/DrewStock/express-mongo-relations)
 ==================================================
 This app launches a local HTTP server which is backed by a persistent data store. The server responds to GET, POST, PUT and DELETE requests for resources '/teams' and '/players', with the domain being my fantasy football league. :football:
 
